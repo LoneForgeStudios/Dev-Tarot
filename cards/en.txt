@@ -1,0 +1,101 @@
+Refactor before you regret.
+Beware the global state.
+Code is a mirror of your mind.
+The best feature is the one you remove.
+Silence your linter, not your conscience.
+Every TODO is a whisper from the future.
+Tests are the dreams of stable code.
+Modularity is clarity in disguise.
+A bug is just misunderstood logic.
+Your code reflects your current mindset.
+Write code as if your future self will read it.
+Every bug is an invitation to understanding.
+Architecture is born not from diagrams, but from intent.
+Deletion is a form of care.
+Tests are trust expressed in code.
+A module is an island, but not a loner.
+Comments are traces of thought, not excuses.
+Complexity is noise; clarity is music.
+Each commit is the breath of the project.
+Fear rewriting less than leaving doubt.
+A feature without meaning is just noise.
+Global state is a shadow hard to trace.
+Renaming is an act of reflection.
+The linter is not an enemy, but a mirror.
+Encapsulation is care for the future.
+A bug is not a mistake, but a challenge.
+Documentation is an invitation to dialogue.
+A framework is a costume, not your skin.
+Code without context is a phrase without tone.
+Every if is a choice.
+Complexity grows where meaning fades.
+A pattern is not law, but suggestion.
+Don't optimize what doesn't work.
+A feature without tests is a bridge without supports.
+Each commit is a snapshot of your state.
+Don't write code you're afraid to read.
+Architecture is not a diagram, it's a mindset.
+Comments are footprints of thought.
+Fear not deletion — fear unnecessary survival.
+Each return is an exit from an idea.
+A nameless function is a thought without meaning.
+State is memory, not garbage.
+Each try is hope.
+Each catch is acceptance.
+Logic is not order, but a path.
+Each switch is a fork in the road.
+Each loop is a repetition of fate.
+Each import is an invitation.
+Each export is a farewell.
+Each null is emptiness to be understood.
+Each true is affirmation.
+Each false is doubt.
+Each break is refusal.
+Each continue is persistence.
+Each throw is a cry.
+Each await is patience.
+Each async is trust.
+Each bug is a mirror.
+Each fix is healing.
+Each pull is a request.
+Each push is a statement.
+Each merge is compromise.
+Each fork is a path chosen.
+Each issue is a voice.
+Each PR is a proposal.
+Each review is a second look.
+Each approve is recognition.
+Each reject is a challenge.
+Each release is a birth.
+Each rollback is regret.
+Each tag is a name.
+Each branch is a possibility.
+Each main is a foundation.
+Each README is an invitation.
+Each LICENSE is freedom.
+Each .gitignore is a boundary.
+Each config is intention.
+Each log is memory.
+Each test is trust.
+Each fail is a lesson.
+Each pass is confirmation.
+Each build is form.
+Each deploy is a step into the world.
+Each crash is awakening.
+Each restart is a chance.
+Each timeout is waiting.
+Each retry is hope.
+Each status is a signal.
+Each ping is a question.
+Each pong is an answer.
+Each CLI is the developer’s voice.
+Each API is an agreement.
+Each UI is an invitation.
+Each UX is care.
+Each pixel is a decision.
+Each commit message is a story.
+Each TODO is a reminder.
+Each FIXME is an admission.
+Each HACK is a compromise.
+Each NOTE is a reflection.
+Each CODE is you.
