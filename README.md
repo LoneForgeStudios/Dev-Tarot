@@ -15,7 +15,7 @@
 ## 🧪 Пример использования
 
 ```bash
-$ python dev_tarot.py
+python dev_tarot.py
 🌐 Choose your language / Выберите язык:
 1. English
 2. Русский
